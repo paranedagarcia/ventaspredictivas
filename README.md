@@ -1,4 +1,4 @@
-# 🎬 Movies Explorer
+# 🎬 Predicción de ventas
 
 What makes a successful movie? Which movie genre performs best at the box office?
 
